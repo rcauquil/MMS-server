@@ -1,0 +1,11 @@
+.DS_Store
+.env
+certificates
+node_modules
+npm-debug.log
+dev_*
+docker-compose.yml
+Dockerfile
+dev_data
+*.tar
+makefile
