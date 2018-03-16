@@ -1,6 +1,6 @@
 # MagicMirror Socket Server - demo
 
-A simple socket server for a MagicMirror demo
+A basic API and socket server for a MagicMirror demo receiving data from particle webhook.
 
 ## Installation
 
